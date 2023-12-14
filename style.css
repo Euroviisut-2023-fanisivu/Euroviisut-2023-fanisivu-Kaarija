@@ -236,7 +236,10 @@ img {
     font-size: 14px;
     font-family: 
   }
-
+.kuvalinkki{
+    color: white;
+    font-size: 14px;
+}
       .sisältö {
         text-align: center;
         padding: 10px;
